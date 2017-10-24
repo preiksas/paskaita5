@@ -1,0 +1,82 @@
+body{
+    text-align: center;
+    background-color: #fece1a;
+    font-family: monospace;
+}
+.container{
+    width: 90%;
+    margin: auto;
+    max-width: 900px;
+}
+.wrapper{
+    width: 30%;
+    margin: auto 1%;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+}
+h2{
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.text-top{
+    color: #444;
+    border-bottom: 1px solid #444;
+    padding-bottom: 20px;
+     margin: auto;
+    margin-bottom: 40px;
+    width: 94%;
+   
+}
+h3{
+    text-transform: uppercase;
+    color: #fece1a;
+    background-color: #000;
+    font-size: 24px;
+    line-height: 70px;
+}
+li{
+    line-height: 55px;
+    font-size: 16px;
+    color: #777;
+    border-bottom: 1px solid #444;
+    width: 80%;
+    margin: auto;
+}
+li span{
+    font-weight: 600;
+}
+.price{
+    font-size: 24px;
+}
+.wrapper button{
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    color: #fece1a;
+    border: none;
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.text-bottom{
+    line-height: 50px;
+    font-size: 16px;
+    color: #444;
+    
+}
+.contact{
+    border: 1px solid black;
+    font-size: 20px;
+    color: black;
+    background-color: transparent;
+    padding: 10px 30px;
+}
+.fa-shopping-cart{
+    font-size: 50px;
+    color: red;
+}
